@@ -3,7 +3,7 @@ import {
   DomSelector,
   el as UniversalEl,
   html,
-} from "@common-module/universal-page";
+} from "@commonmodule/universal-page";
 
 export default function el<S extends DomSelector>(
   selector: S,
